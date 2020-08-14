@@ -1,4 +1,4 @@
-# Tweaked `vecnehladny/ubersicht-termina-widget`
+# Terminal info widget
 My tweaked version of [vecnehladny/ubersicht-termina-widget](https://github.com/vecnehladny/ubersicht-termina-widget)
 
 Solid color background, less color, overall more terminal-feeling.
